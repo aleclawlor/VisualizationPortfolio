@@ -1,0 +1,48 @@
+#body{
+    background-color: #1B1B1B;
+    color: #9CB6E5
+}
+
+#main{
+    padding-top: 40px;
+}
+
+#welcome{
+    color: whitesmoke
+}
+
+#title{
+
+}
+
+#cards{
+    margin-top: 3%;
+}
+
+#disclaimer{
+    color: whitesmoke;
+    font-style: italic;
+}
+
+.visCard{
+    background-color: rgba(0, 0, 0, .2);
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding:15px;
+    color: whitesmoke
+}
+
+.visLink{
+    color: #9CB6E5;
+    font-size: 20px;
+}
+
+.visDescription{
+}
+
+.githubLink{
+    color:#9CB6E5
+}
